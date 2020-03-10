@@ -1,5 +1,1 @@
-<rect x="4" y="12" width="4" height="24" stroke-width="0" />
-<rect x="40" y="12" width="4" height="24" stroke-width="0" />
-<rect x="12" y="4" width="24" height="4" stroke-width="0" />
-<rect x="12" y="40" width="24" height="4" stroke-width="0" />
-<rect x="12" y="12" width="24" height="24" stroke-width="0" fill="#000000"/>
+<rect width="4" height="24" x="4" y="12" stroke-width="0"/><rect width="4" height="24" x="40" y="12" stroke-width="0"/><rect width="24" height="4" x="12" y="4" stroke-width="0"/><rect width="24" height="4" x="12" y="40" stroke-width="0"/><rect width="24" height="24" x="12" y="12" fill="#000" stroke-width="0"/>
